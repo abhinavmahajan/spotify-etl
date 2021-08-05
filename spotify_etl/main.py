@@ -120,3 +120,4 @@ if __name__ == "__main__":
     # Job scheduling 
     
     # For the scheduling in Airflow, refer to files in the dag folder 
+    # credits: https://github.com/karolina-sowinska 
