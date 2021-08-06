@@ -9,7 +9,7 @@ import sqlite3
 
 
 # Generate your token here:  https://developer.spotify.com/console/get-recently-played/
-# Note: You need a Spotify account (can be easily created for free)
+# Note: You need a Spotify account
 
 def check_if_valid_data(df: pd.DataFrame) -> bool:
     # Check if dataframe is empty
